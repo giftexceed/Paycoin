@@ -1,6 +1,6 @@
 # paycoin
 
-A new Flutter project.
+A crypto exchange wallet UI design built on flutter framework.
 
 # ScreenShots
 <div align="center">
